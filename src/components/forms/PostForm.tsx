@@ -13,8 +13,6 @@ import { useToast } from "@/components/ui/use-toast";
 import { useUserContext } from "@/context/AuthContext";
 import FileUploader from "../shared/FileUploader"
 import { useCreatePost, useUpdatePost } from "@/lib/react-query/queriesAndMutations";
-import Loader from "../shared/Loader";
-import { updatePost } from "@/lib/appwrite/api";
 
 type PostFormProps = {
   post?: Models.Document;
