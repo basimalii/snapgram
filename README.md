@@ -1,3 +1,30 @@
+# Welcome to Snapgram! [Visit Snapgram](https://snapgram-sigma.vercel.app/)
+Snapgram is a full-stack social media app, inspired by Instagram, with a responsive
+UI for mobile and desktop. It utilizes a modern tech stack (React JS, Appwrite,
+Tailwind CSS, and React Query) with TypeScript for code quality. The app includes
+advanced features like complex routing, conditional rendering, and infinite scrolling.
+Users can interact with posts through likes, saves, and content management,
+providing a comprehensive social media experience. This project highlights my skills
+in front-end and back-end development, UX design, and tech stack utilization.
+
+## Screenshots
+
+### Desktop Interface
+[login](Screenshots/Desktop view/1.login.png)
+[signup](Screenshots/Desktop view/2.signup.png)
+[home](Screenshots/Desktop view/3.home.png)
+[explore](Screenshots/Desktop view/4.explore.png)
+[relatedposts](Screenshots/Desktop view/5.related posts.png)
+[createpost](Screenshots/Desktop view/6.create post.png)
+
+### Mobile Interface
+[login](Screenshots/Mobile view/1.login.jpg)
+[signup](Screenshots/Mobile view/2.signup.jpg)
+[home](Screenshots/Mobile view/3.home.jpg)
+[explore](Screenshots/Mobile view/4.explore.jpg)
+[createpost](Screenshots/Mobile view/5.create post.PNG)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
