@@ -10,19 +10,19 @@ in front-end and back-end development, UX design, and tech stack utilization.
 ## Screenshots
 
 ### Desktop Interface
-[login](Screenshots/Desktop view/1.login.png)
-[signup](Screenshots/Desktop view/2.signup.png)
-[home](Screenshots/Desktop view/3.home.png)
-[explore](Screenshots/Desktop view/4.explore.png)
-[relatedposts](Screenshots/Desktop view/5.related posts.png)
-[createpost](Screenshots/Desktop view/6.create post.png)
+![login](Screenshots/Desktop view/1.login.png)
+![signup](Screenshots/Desktop view/2.signup.png)
+![home](Screenshots/Desktop view/3.home.png)
+![explore](Screenshots/Desktop view/4.explore.png)
+![relatedposts](Screenshots/Desktop view/5.related posts.png)
+![createpost](Screenshots/Desktop view/6.create post.png)
 
 ### Mobile Interface
-[login](Screenshots/Mobile view/1.login.jpg)
-[signup](Screenshots/Mobile view/2.signup.jpg)
-[home](Screenshots/Mobile view/3.home.jpg)
-[explore](Screenshots/Mobile view/4.explore.jpg)
-[createpost](Screenshots/Mobile view/5.create post.PNG)
+![login](Screenshots/Mobile view/1.login.jpg)
+![signup](Screenshots/Mobile view/2.signup.jpg)
+![home](Screenshots/Mobile view/3.home.jpg)
+![explore](Screenshots/Mobile view/4.explore.jpg)
+![createpost](Screenshots/Mobile view/5.create post.PNG)
 
 
 # React + TypeScript + Vite
