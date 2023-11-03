@@ -10,7 +10,7 @@ in front-end and back-end development, UX design, and tech stack utilization.
 ## Screenshots
 
 ### Desktop Interface
-![login](Screenshots/Desktop view/1.login.png)
+![login](/Users/basim/Documents/Web Development/SnapGram/Screenshots/Mobile view/1.login.jpg)
 ![signup](Screenshots/Desktop view/2.signup.png)
 ![home](Screenshots/Desktop view/3.home.png)
 ![explore](Screenshots/Desktop view/4.explore.png)
