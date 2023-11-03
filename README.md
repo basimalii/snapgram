@@ -10,19 +10,19 @@ in front-end and back-end development, UX design, and tech stack utilization.
 ## Screenshots
 
 ### Desktop Interface
-![login](/Users/basim/Documents/Web Development/SnapGram/Screenshots/Mobile view/1.login.jpg)
-![signup](Screenshots/Desktop view/2.signup.png)
-![home](Screenshots/Desktop view/3.home.png)
-![explore](Screenshots/Desktop view/4.explore.png)
-![relatedposts](Screenshots/Desktop view/5.related posts.png)
-![createpost](Screenshots/Desktop view/6.create post.png)
+![login](Screenshots/Desktop%20view/1.login.png)
+![signup](Screenshots/Desktop%20view/2.signup.png)
+![home](Screenshots/Desktop%20view/3.home.png)
+![explore](Screenshots/Desktop%20view/4.explore.png)
+![relatedposts](Screenshots/Desktop%20view/5.related%20posts.png)
+![createpost](Screenshots/Desktop%20view/6.create%20post.png)
 
 ### Mobile Interface
-![login](Screenshots/Mobile view/1.login.jpg)
-![signup](Screenshots/Mobile view/2.signup.jpg)
-![home](Screenshots/Mobile view/3.home.jpg)
-![explore](Screenshots/Mobile view/4.explore.jpg)
-![createpost](Screenshots/Mobile view/5.create post.PNG)
+![login](Screenshots/Desktop%20view/1.login.jpg)
+![signup](Screenshots/Desktop%20view/2.signup.jpg)
+![home](Screenshots/Desktop%20view/3.home.jpg)
+![explore](Screenshots/Desktop%20view/4.explore.jpg)
+![createpost](Screenshots/Desktop%20view/5.create%20post.PNG)
 
 
 # React + TypeScript + Vite
